@@ -1,6 +1,6 @@
 # Certifications
 
-### AWS Academy
+- ### AWS Academy
 View my verified badge from AWS Academy
 
 > [AWS Academy Graduate - AWS Academy Machine Learning Foundations](https://www.credly.com/badges/3b241b52-5c90-42e3-930f-11ebfa9a0f38/public_url)
@@ -15,4 +15,4 @@ View my verified badge from AWS Academy
 > 
 > Issued by Amazon Web Services Training and Certification
 
-- ### Hands on tableau for data science - UDEMY
+- ### [Hands on tableau for data science - UDEMY](https://github.com/MUSKAN1903/Certifications/blob/main/Tableau_Udemy.pdf)
