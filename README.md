@@ -16,3 +16,5 @@ View my verified badge from AWS Academy
 > Issued by Amazon Web Services Training and Certification
 
 - ### [Hands on tableau for data science - UDEMY](https://github.com/MUSKAN1903/Certifications/blob/main/Tableau_Udemy.pdf)
+- ### [SQL and Transact-SQL (T-SQL) For Beginners]()
+
